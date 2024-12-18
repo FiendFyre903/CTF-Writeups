@@ -6,11 +6,11 @@ Help him uncover the exact date of the incident and the start time of the delay.
 
 #### Flag Format: nite{time_date} <br>Example: nite{13:00_3January}
 
-# About the challenge
+## About the challenge
 
 The challenge wants us to find the exact start time and date of an event(Train Delay) that matches the clues given.
 
-# How to Solve
+## How to Solve
 
 There is one line connecting Omotesando and Suitengumae and it is the Hanzomon Line.
 
